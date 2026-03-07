@@ -1,0 +1,5 @@
+{
+  "name": "Eden Garden Learning App",
+  "description": "A comprehensive learning management system for Eden Garden school, featuring roles for Admins, Teachers, and Students with class-specific materials and communication tools.",
+  "requestFramePermissions": []
+}
